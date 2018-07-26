@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "Brachiosaur",
+    "picture": "images/brachiosaur.png",
+    "power": 3
+  },
+  {
+    "id": 1,
+    "name": "Pteranodon",
+    "picture": "images/pteranodon.png",
+    "power": 10
+  },
+  {
+    "id": 2,
+    "name": "Stegosaurus",
+    "picture": "images/stegosaurus.png",
+    "power": 0
+  },
+  {
+    "id": 3,
+    "name": "Trex",
+    "picture": "images/trex.png",
+    "power": 1
+  },
+  {
+    "id": 4,
+    "name": "Triceratops",
+    "picture": "images/triceratops.png",
+    "power": 3
+  },
+  {
+    "id": 5,
+    "name": "Velociraptor",
+    "picture": "images/velociraptor.png",
+    "power": 15
+  }
+]
